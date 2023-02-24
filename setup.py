@@ -14,7 +14,7 @@ setup(
     author_email = "mazqoty.01@gmail.com",
     maintainer = "Mazhar",
     maintainer_email = "mazqoty.01@gmail.com",
-    version = "1.0.1",
+    version = "1.0.2",
     url = "https://github.com/mm-mazhar/imagedownloader.git",
     download_url = "https://github.com/mm-mazhar/imagedownloader.git",
     project_urls = {"Bug Tracker": "https://github.com/mm-mazhar/imagedownloader/issues"},
