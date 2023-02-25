@@ -4,7 +4,8 @@
 
   <a href="#">![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=plastic&logo=Python)</a>
   <a href="#">![PyPI - Wheel](https://img.shields.io/pypi/wheel/imagedownloader?style=plastic)</a>
-  
+  <a href="#">![PyPI - Downloads](https://img.shields.io/pypi/dm/imagedownloader?style=plastic)</a>
+  <a href="#">![PyPI - License](https://img.shields.io/pypi/l/imagedownloader)</a>
   <a href="https://imagedownloader.readthedocs.io/en/latest/">![Read the Docs](https://img.shields.io/readthedocs/imagedownloader?style=plastic)</a>
   
 
@@ -73,4 +74,4 @@ if __name__ == "__main__":
 6. Email me at `mazqoty.01@gmail.com` because I do not check those messages often.
 
 ## History
-* 1.0.2 - Initial Commit without tests 
+* 1.0.3 
